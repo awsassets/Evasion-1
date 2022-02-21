@@ -1,6 +1,8 @@
 ﻿using System.IO;
 using System.Management;
 using System.Windows.Forms;
+using System.Threading.Tasks;
+using System.Collections.Generic;
 using System.Management.Automation;
 
 namespace Evasion1
