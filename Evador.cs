@@ -2,7 +2,7 @@
 using System.Management;
 using System.Management.Automation;
 
-namespace Client.Evasion
+namespace Evasion1
 {
     class Evador
     {
